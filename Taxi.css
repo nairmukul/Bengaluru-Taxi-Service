@@ -1,0 +1,70 @@
+h1{
+	/*text-align: center;*/
+	line-height: 1.1;
+	font-weight: normal;
+	padding-top: 5%;
+	background-color: white;
+	font-family: Georgia;
+
+}
+.Distance{
+	margin-right: 1.66%;
+}
+.Time{
+	margin-right: 1.66%;
+}
+body{
+	background: url(https://c1cleantechnicacom-wpengine.netdna-ssl.com/files/2017/12/Ola-India.png);
+	background-size: cover;
+	/*background-position: center center;*/
+	background-repeat: no-repeat;
+	
+}
+.input{
+	margin-left: 1%;
+	padding: 5%;
+}
+.image{
+	margin-left: 20%;
+	/*height: 300px;
+	width: 800px;*/
+}
+.jumbotron{
+	color: rgb(44,62,80);
+	border-top: 2%;
+
+}
+#qr{
+	/*margin-left: 50%;
+	margin-top: 30%;*/
+	position: center center;
+}
+#qrText{
+	margin-left: 40%;
+}
+#head{
+	background-color: white;
+	font-family: Papyrus;
+}
+.container #all{
+	background-size: 300px 100px;
+	color: rgb(0, 0, 0);
+	margin-left: 40%;
+}
+.abc{
+	margin-top: 5%;
+}
+.row{
+	margin-top: 5%;
+}
+.image{
+	margin-bottom: 1%;
+}
+.customer{
+}
+
+.alll{
+	color: rgb(0, 0, 0);
+	margin-left: 40%;
+	margin-bottom: 10%;
+}
